@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">neura_react_native</string>
+    <string name="app_uid">uid</string>
+    <string name="app_secret">secret</string>
+</resources>
